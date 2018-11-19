@@ -11,11 +11,12 @@ FOSS4G 2018 Okayama/Tokyoにおける発表資料のリンク集
 ### 
 
 
-## FOSS4G 2018 Okayama
+## FOSS4G 2018 Tokyo
 ### 基調講演
 [[地理院地図の新機能と災害情報の提供 国土地理院　佐藤 壮紀 様]](https://www.slideshare.net/osgeojapan/ss-122953383)  
 
 ### 事例紹介
+[[YOLOv3 , Mask R-CNNなどの一般物体検出技術をG空間分野に活用する～地方自治体での活用事例をもとに～ オービタルネット 小林 裕治 様]](https://www.slideshare.net/YujiKobayashi7/foss4g-2018-tokyo?fbclid=IwAR3gjIztvMtTSr6NxczFbN7mSR2YkDW_h-RXjz4qPzQ-eaP5PTyTddZoDLg)  
 [[Development of geospatial data analysis technology based on open source.　Kim Geunbae and Lim Younghyun, MangoSystem]](https://www.slideshare.net/younghyunlim169/foss4g2018tokyo-development-of-geospatial-data-analysis-technology-based-on-open-source?qid=861bd2e6-2393-4cfe-8397-489c5e850cf2&v=&b=&from_search=1)  
 
 ### 特別セッション

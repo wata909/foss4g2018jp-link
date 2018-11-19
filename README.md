@@ -6,6 +6,7 @@ FOSS4G 2018 Okayama/Tokyoにおける発表資料のリンク集
 [地理院地図の新機能と災害情報の提供 国土地理院　小島 脩平 様](https://www.slideshare.net/osgeojapan/ss-122954222)  
 
 ### 事例紹介
+[古地図プラットフォームMaplat　Code for NARA 横浜支部　大塚 恒平 様](https://s.maplat.jp/r/foss4g.html#!s:maplat_2018_nov_1/b:osm/x:-5366490.881828856/y:11784755.272876307/z:3)  
 [MySQL 8.0 で強化されたGIS機能のご紹介　 日本MySQLユーザ会(MyNA) 坂井 恵 様](https://www.slideshare.net/sakaik/mysql-80-gis-foss4g-okayama)  
 
 ### 
@@ -16,6 +17,7 @@ FOSS4G 2018 Okayama/Tokyoにおける発表資料のリンク集
 [地理院地図の新機能と災害情報の提供 国土地理院　佐藤 壮紀 様](https://www.slideshare.net/osgeojapan/ss-122953383)  
 
 ### 事例紹介
+[古地図プラットフォームMaplat　Code for NARA 横浜支部　大塚 恒平 様](https://s.maplat.jp/r/foss4g.html#!s:maplat_2018_nov_1/b:osm/x:-5366490.881828856/y:11784755.272876307/z:3)  
 [YOLOv3 , Mask R-CNNなどの一般物体検出技術をG空間分野に活用する～地方自治体での活用事例をもとに～ オービタルネット 小林 裕治 様](https://www.slideshare.net/YujiKobayashi7/foss4g-2018-tokyo?fbclid=IwAR3gjIztvMtTSr6NxczFbN7mSR2YkDW_h-RXjz4qPzQ-eaP5PTyTddZoDLg)  
 [Development of geospatial data analysis technology based on open source.　Kim Geunbae and Lim Younghyun, MangoSystem](https://www.slideshare.net/younghyunlim169/foss4g2018tokyo-development-of-geospatial-data-analysis-technology-based-on-open-source?qid=861bd2e6-2393-4cfe-8397-489c5e850cf2&v=&b=&from_search=1)  
 

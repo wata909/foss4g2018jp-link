@@ -8,7 +8,7 @@ FOSS4G 2018 Okayama/Tokyoにおける発表資料のリンク集
 ### 事例紹介
 [古地図プラットフォームMaplat　Code for NARA 横浜支部　大塚 恒平 様](https://s.maplat.jp/r/foss4g.html#!s:maplat_2018_nov_1/b:osm/x:-5366490.881828856/y:11784755.272876307/z:3)  
 [MySQL 8.0 で強化されたGIS機能のご紹介　 日本MySQLユーザ会(MyNA) 坂井 恵 様](https://www.slideshare.net/sakaik/mysql-80-gis-foss4g-okayama)  
-
+[平成30年7月豪雨　マップによる災害支援（尾道）石崎 浩太郎 様（ Code for Hiroshima ）](https://docs.google.com/presentation/d/1vulyQ9Ng9CjojK-x95gsea7unbRTNz_oc-s0vIt29Ls/edit#slide=id.g3f95415b3a_0_4)
 ### 
 
 

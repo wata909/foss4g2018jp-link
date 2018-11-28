@@ -10,6 +10,10 @@ FOSS4G 2018 Okayama/Tokyoにおける発表資料のリンク集
 [MySQL 8.0 で強化されたGIS機能のご紹介　 日本MySQLユーザ会(MyNA) 坂井 恵 様](https://www.slideshare.net/sakaik/mysql-80-gis-foss4g-okayama)  
 [平成30年7月豪雨　マップによる災害支援（尾道）石崎 浩太郎 様（ Code for Hiroshima ）](https://docs.google.com/presentation/d/1vulyQ9Ng9CjojK-x95gsea7unbRTNz_oc-s0vIt29Ls/edit#slide=id.g3f95415b3a_0_4)  
 [リアルな体験を可能にする災害訓練ARアプリ 大阪市立大学 吉田 大介 様](https://www.slideshare.net/nro2dai/ar-123789829/?fbclid=IwAR22GG9ZkYtjEsDs1QjJEXYw3n5Z9zoXfGEEsg6ACQ9jRWYAk_FVIsjfCGg)  
+[公共交通オープンデータ最先端都市 岡山のGTFSデータをFOSS4Gで遊び尽くす 東京大学 伊藤 昌毅 様](https://www.slideshare.net/niyalist/gtfsfoss4g)
+
+### ライトニングトーク
+[高さもいろいろ　ロケージング 上田 直生 様](https://docs.google.com/presentation/d/e/2PACX-1vTyZh59U4sYNFerOqZQlfpGqM8eXlm6vxsszRkbOGQmi_SYtfaLCga2uXfeFlQ-WL1aJYODyrHyS1vI/pub?start=false&loop=false&delayms=3000&fbclid=IwAR1MDq95JtlC-TkURb9ZhocJiYpLGOIXPA6nrDr91ogL01f4Z7crtjHfCzg&slide=id.p)
 
 ## FOSS4G 2018 Tokyo
 ### 基調講演
@@ -22,6 +26,9 @@ FOSS4G 2018 Okayama/Tokyoにおける発表資料のリンク集
 [Mapbox Vector Tileで陸・海・空を制覇せよ ～ 航海支援アプリ「new pec smart」 ～ 株式会社マップル・オン 柴本 歩 様](https://www.slideshare.net/AyumiShibamoto/mapboxvectortile)  
 [Node-REDのworldmapの活用 五大開発株式会社 荒木 光一様](https://www.slideshare.net/osgeojapan/noderedworldmap)  
 [FOSS4Gを利用して 小学生の自由研究してみた件 北海道地図株式会社 石崎 一隆 様](https://www.slideshare.net/Ihizaki/foss4g-122698154?fbclid=IwAR01aU5hmVdfrHqG58bgE9jJuJPjzwQdOuE_Ld90gVPgpvhmLqhJTo3ynH0)  
+[PostGISトポジオメトリを使ってみる boildorange73 様](https://www.slideshare.net/boiledorange73/postgis-122526252)  
+[MySQL 8.0で強化されたGIS機能のご紹介と周辺ツールとの連携について 日本オラクル 山﨑 由章 様](https://www.slideshare.net/yoyamasaki/mysql-80gis)  
+
 
 ### 特別セッション
 [GNSSによる高精度測位社会に向けた国土地理院の取り組み　国土地理院 小門 研亮 様](https://www.slideshare.net/osgeojapan/gnss-122857727)  
